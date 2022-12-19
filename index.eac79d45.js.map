@@ -1,0 +1,1 @@
+{"mappings":"AAAAA,QAAQC,IAAK,qBACbD,QAAQC,IAAK,eAA4BC,OAAZC,KAAKC,QCDlCJ,QAAQC,IAAK","sources":["src/js/part.js","src/js/part2.js"],"sourcesContent":["console.log (\"Hello world part1\");\nconsole.log (`Branch test ${ Date.now() }`);","console.log (\"Hello world part2\");"],"names":["console","log","concat","Date","now"],"version":3,"file":"index.eac79d45.js.map"}

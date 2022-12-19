@@ -1,1 +1,0 @@
-{"mappings":"AAAAA,QAAQC,IAAK,qBCAbD,QAAQC,IAAK","sources":["src/js/part.js","src/js/part2.js"],"sourcesContent":["console.log (\"Hello world part1\");","console.log (\"Hello world part2\");"],"names":["console","log"],"version":3,"file":"index.6144f50f.js.map"}
