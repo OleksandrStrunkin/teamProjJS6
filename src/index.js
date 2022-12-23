@@ -6,7 +6,7 @@ import { firebaseOptions } from './js/firebase-options';
 import { renderFilms } from './js/renderFilms';
 import { trendMovies } from './js/requests';
 import { localeStorage } from './js/localeStorage';
-
+import * as part2 from './js/themeDL';
 //getting popular film list
 // movieLink.getMovies(1).then(res => console.log(res));
 
